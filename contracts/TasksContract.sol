@@ -3,7 +3,7 @@ pragma solidity ^0.8.6; // Version antigua de solidity
 
 contract TasksContract {
 
-    uint taskCounter = 0;
+    uint public taskCounter = 0;
 
     struct Task {
         uint256 id;
