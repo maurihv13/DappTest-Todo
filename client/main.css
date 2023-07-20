@@ -2,3 +2,7 @@ body {
     background: #09182F;
     color: #fff;
 }
+
+.bg-dark {
+    color: white
+}
